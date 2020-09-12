@@ -14,4 +14,7 @@ module.exports = {
   allowHeaders: "*",
   mwTimeout: 10,
   resTimeout: 200,
+  cache: 3000,
+  serveStatic: true,
+  publicFolder: "./public"
 };
