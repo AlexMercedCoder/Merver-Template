@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "am-merver": "0.0.11"
+    "am-merver": "0.0.13"
   }
 }
