@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cross-env": "^7.0.2",
-    "am-merver": "0.0.13"
+    "am-merver": "0.0.13",
+    "cross-env": "^7.0.2"
   }
 }
